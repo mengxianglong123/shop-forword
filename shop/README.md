@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 说明
+项目中还存在诸多的不足，希望大家一起交流学习！！
